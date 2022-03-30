@@ -1,0 +1,1917 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="398.28pt" height="184.92pt" viewBox="0 0 398.28 184.92">
+<g enable-background="new">
+<g>
+<g id="Layer-1" data-name="Artifact">
+<clipPath id="cp0">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 0 .000045776 L 398.28 .000045776 L 398.28 184.92005 L 0 184.92005 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp0)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 0 .000015259 L 398.28 .000015259 L 398.28 184.92002 L 0 184.92002 Z " fill="#ffffff" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 278.88 101.2 C 278.88 109.79 285.85 116.76 294.44 116.76 L 356.68 116.76 C 365.27 116.76 372.24 109.79 372.24 101.2 L 372.24 24.92 C 372.24 16.327 365.27 9.36 356.68 9.36 L 294.44 9.36 C 285.85 9.36 278.88 16.327 278.88 24.92 Z " fill="#fff2cc" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 153.6 173.44 C 153.6 178.98 158.1 183.48 163.64 183.48 L 361.96 183.48 C 367.5 183.48 372 178.98 372 173.44 L 372 133.28 C 372 127.74 367.5 123.24 361.96 123.24 L 163.64 123.24 C 158.1 123.24 153.6 127.74 153.6 133.28 Z " fill="#f5f5f5" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 153.72 98.56 C 153.72 108.61 161.87 116.76 171.92 116.76 L 255.64 116.76 C 265.69 116.76 273.84 108.61 273.84 98.56 L 273.84 25.76 C 273.84 15.709 265.69 7.56 255.64 7.56 L 171.92 7.56 C 161.87 7.56 153.72 15.709 153.72 25.76 Z " fill="#dae3f3" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 219.6 141.12 C 219.6 144.04 221.83 146.4 224.58 146.4 C 227.33 146.4 229.56 144.04 229.56 141.12 C 229.56 138.2 227.33 135.84 224.58 135.84 C 221.83 135.84 219.6 138.2 219.6 141.12 Z " fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,184.92)" stroke-width="1.25" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#2f528f" d="M 219.6 141.12 C 219.6 144.04 221.83 146.4 224.58 146.4 C 227.33 146.4 229.56 144.04 229.56 141.12 C 229.56 138.2 227.33 135.84 224.58 135.84 C 221.83 135.84 219.6 138.2 219.6 141.12 Z "/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp1">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000045776 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp1)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 180 89.28 L 226.219 89.28 L 226.219 96.3794 L 180 96.3794 Z " fill="#ffd966" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp2">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000045776 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp2)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 226.22 96.379 L 231.12 101.28 L 184.9 101.28 L 180 96.379 Z " fill="#cdae52" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp3">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000045776 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp3)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 226.22 89.28 L 231.12 94.181 L 231.12 101.28 L 226.22 96.379 Z " fill="#ffe084" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 142.44 96.997 L 177.46 96.997 L 177.46 97.92 L 179.28 96.48 L 177.46 95.04 L 177.46 95.963 L 142.44 95.963 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 138.24 93.997 L 177.58 93.997 L 177.58 94.92 L 179.4 93.48 L 177.58 92.04 L 177.58 92.963 L 138.24 92.963 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 254.88 95.1 C 254.88 97.983 257.08 100.32 259.8 100.32 C 262.52 100.32 264.72 97.983 264.72 95.1 C 264.72 92.217 262.52 89.88 259.8 89.88 C 257.08 89.88 254.88 92.217 254.88 95.1 Z " fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,184.92)" stroke-width="1.25" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#2f528f" d="M 254.88 95.1 C 254.88 97.983 257.08 100.32 259.8 100.32 C 262.52 100.32 264.72 97.983 264.72 95.1 C 264.72 92.217 262.52 89.88 259.8 89.88 C 257.08 89.88 254.88 92.217 254.88 95.1 Z "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" stroke-width="1.5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#4472c4" d="M 256.38 91.36 L 263.38 98.82 "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" stroke-width="1.5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#4472c4" d="M 263.38 91.36 L 256.38 98.82 "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 232.56 97.357 L 250.18 97.357 L 250.18 98.28 L 252 96.84 L 250.18 95.4 L 250.18 96.323 L 232.56 96.323 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 268.44 96.997 L 284.62 96.997 L 284.62 97.92 L 286.44 96.48 L 284.62 95.04 L 284.62 95.963 L 268.44 95.963 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 268.56 94.515 L 284.81 94.515 L 284.81 95.4 L 286.56 94.02 L 284.81 92.64 L 284.81 93.525 L 268.56 93.525 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 141.72 34.477 L 175.66 34.477 L 175.66 35.4 L 177.48 33.96 L 175.66 32.52 L 175.66 33.443 L 141.72 33.443 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 138.24 30.877 L 176.14 30.877 L 176.14 31.8 L 177.96 30.36 L 176.14 28.92 L 176.14 29.843 L 138.24 29.843 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp4">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp4)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="8.064" font-family="Calibri" font-weight="bold"><tspan y="-64.872" x="244.82">.</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp5">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp5)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="8.04" font-family="Calibri" font-weight="bold"><tspan y="-55.248" x="244.82">.</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 232.56 94.597 L 250.06 94.597 L 250.06 95.52 L 251.88 94.08 L 250.06 92.64 L 250.06 93.563 L 232.56 93.563 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 121.44 140.56 L 215.98 140.56 L 215.98 141.48 L 217.8 140.04 L 215.98 138.6 L 215.98 139.52 L 121.44 139.52 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp6">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp6)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 138.04 30.24 L 138.04 130.8 L 137.04 130.8 L 138.48 130.8 L 139.92 130.8 L 138.92 130.8 L 138.92 30.24 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp7">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp7)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 141.52 33.6 L 141.52 140.52 L 140.52 140.52 L 141.96 140.52 L 143.4 140.52 L 142.4 140.52 L 142.4 33.6 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp8">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp8)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="8.064" font-family="Calibri" font-weight="bold"><tspan y="-69.624" x="244.82">.</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp9">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp9)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="8.04" font-family="Calibri" font-weight="bold"><tspan y="-60" x="244.82">.</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 121.56 131.04 L 138.6 131.04 L 138.6 132 L 138.6 130.62 L 138.6 129.24 L 138.6 130.2 L 121.56 130.2 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 142.56 72.203 L 101.78 72.203 L 101.78 71.28 L 99.96 72.72 L 101.78 74.16 L 101.78 73.237 L 142.56 73.237 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 138.72 69.083 L 101.78 69.083 L 101.78 68.16 L 99.96 69.6 L 101.78 71.04 L 101.78 70.117 L 138.72 70.117 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp10">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000045776 184.92 L 398.28 184.92 L 398.28 0 L -.000030518 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp10)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 159.36 157.8 L 189.771 157.8 L 189.771 164.3315 L 159.36 164.3315 Z " fill="#cbcbcb" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp11">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000045776 184.92 L 398.28 184.92 L 398.28 0 L -.000030518 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp11)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 189.77 164.33 L 194.28 168.84 L 163.87 168.84 L 159.36 164.33 Z " fill="#aaaaaa" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp12">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000045776 184.92 L 398.28 184.92 L 398.28 0 L -.000030518 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp12)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 189.77 157.8 L 194.28 162.31 L 194.28 168.84 L 189.77 164.33 Z " fill="#d5d6d5" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp13">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000030518 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000030518 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp13)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 174.92 139.8 L 174.92 152.14 L 174 152.14 L 175.44 153.96 L 176.88 152.14 L 175.96 152.14 L 175.96 139.8 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp14">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000045776 .000061035 L 398.27998 .000061035 L 398.27998 184.92006 L -.000045776 184.92006 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp14)">
+<mask id="ma15">
+<g transform="matrix(.35253576,0,0,.35346876,212.04,6.8379919)">
+<use xlink:href="#im16" x="0" y="0" width="56" height="64"/>
+</g>
+</mask>
+<symbol id="im16" viewBox="0 0 56 64">
+<image width="56" height="64" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAADgAAABACAAAAABqnOtuAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAYklEQVR4nGNUcGAgBxxgTJhPlsZExoTp956SrI1To5QxIbf59h9S
+NcpVL2BMSMm6RLKNypNWj2oc1TiqcVTjqMZRjaMaRzWOahzVOKpxVCPtNXadfE+y
+xm8+NeR3ysjtBgIAYcPRwY3OdeUAAAAASUVORK5CYII="/>
+</symbol>
+<g mask="url(#ma15)">
+<g transform="matrix(.35253576,0,0,.35346876,212.04,6.8379919)">
+<symbol id="im17" viewBox="0 0 56 64">
+<image width="56" height="64" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAADgAAABACAYAAABP97SyAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAxElEQVR4nO3bMQqEMBQA0URFvJFg4+U9lKAmS5S12tJFJsw0gVT/
+kbQ/juOYh2EINbaua4jzPOe2bd+e5S8dx3EBm6YJOee353msGON5ppQuYLkowH3f
+q4B2XRfKr7yB5QW3bQvLsrw92yNN0xT6vj8fSyAxgfQE0hNITyA9gfQE0hNITyA9
+gfQE0hNITyA9gfQE0hNITyA9gfQE0hNITyA9gfQE0hNITyA9gfQE0hNI7yewVMPW
+S+m7yXMDq17Oqn297gPtR5cvJ8r+wwAAAABJRU5ErkJggg=="/>
+</symbol>
+<use xlink:href="#im17" x="0" y="0" width="56" height="64"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp18">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 .000030518 L 398.27998 .000030518 L 398.27998 184.92003 L -.000015259 184.92003 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp18)">
+<mask id="ma19">
+<g transform="matrix(.37,0,0,.37578947,215.64,9.479996)">
+<use xlink:href="#im20" x="0" y="0" width="18" height="19"/>
+</g>
+</mask>
+<symbol id="im20" viewBox="0 0 18 19">
+<image width="18" height="19" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABIAAAATCAAAAAC4+QIuAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAJ0lEQVR4nGNkwACMDP+JE2Jk/oskUN0CEkJRMzyFeJBFftbWERde
+ANBoIgIa5iaHAAAAAElFTkSuQmCC"/>
+</symbol>
+<g mask="url(#ma19)">
+<g transform="matrix(.37,0,0,.37578947,215.64,9.479996)">
+<symbol id="im21" viewBox="0 0 18 19">
+<image width="18" height="19" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABIAAAATCAYAAACdkl3yAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAS0lEQVR4nGNkYGD4z0AFwAg2aHvwYDTIcy0Dw6pQBoaw1aSZsCWA
+gYGZGc0gcsCoQaMGjRpEmkGvP5FuyN3dDAwm/gwMLCyDsDwCABQZRbXaOE1/AAAA
+AElFTkSuQmCC"/>
+</symbol>
+<use xlink:href="#im21" x="0" y="0" width="18" height="19"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp22">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 .000030518 L 398.27998 .000030518 L 398.27998 184.92003 L -.000015259 184.92003 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp22)">
+<mask id="ma23">
+<g transform="matrix(.37384618,0,0,.36391307,225.84,10.200003)">
+<use xlink:href="#im24" x="0" y="0" width="13" height="46"/>
+</g>
+</mask>
+<symbol id="im24" viewBox="0 0 13 46">
+<image width="13" height="46" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAA0AAAAuCAAAAADWuMw4AAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAMklEQVR4nGNkQAaMDP/x8WSfQNk5kwnwZJ4i8+QeE6tvlDdkedlT
+MOTCX0N5AXn4UhYA005/Ar3wP20AAAAASUVORK5CYII="/>
+</symbol>
+<g mask="url(#ma23)">
+<g transform="matrix(.37384618,0,0,.36391307,225.84,10.200003)">
+<symbol id="im25" viewBox="0 0 13 46">
+<image width="13" height="46" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAA0AAAAuCAYAAADz05PkAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAaUlEQVR4nGNkYGD4z0AiYARpOjaNnpp+/mZgcMzHr/jwJAYGZpYB
+0fTtOwODSzGJmj59Y2DwKBm0fhrVNKppVNOoplFNo5qorGkKUBMTqZomAzUxU+q8
+v/+A+C9+TSxApzEh20QKIEsTABrgDzxWc/8yAAAAAElFTkSuQmCC"/>
+</symbol>
+<use xlink:href="#im25" x="0" y="0" width="13" height="46"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp26">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 .000045776 L 398.27998 .000045776 L 398.27998 184.92005 L -.000015259 184.92005 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp26)">
+<mask id="ma27">
+<g transform="matrix(.37384618,0,0,.37764708,219.72,21.359999)">
+<use xlink:href="#im28" x="0" y="0" width="13" height="17"/>
+</g>
+</mask>
+<symbol id="im28" viewBox="0 0 13 17">
+<image width="13" height="17" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAA0AAAARCAAAAAAjlHlAAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAKElEQVR4nGNkQAaMDP/x8eQfQdk5k4E82SeDh+f9CsoLrkB39VMk
+HgC2hifosCcnUwAAAABJRU5ErkJggg=="/>
+</symbol>
+<g mask="url(#ma27)">
+<g transform="matrix(.37384618,0,0,.37764708,219.72,21.359999)">
+<symbol id="im29" viewBox="0 0 13 17">
+<image width="13" height="17" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAA0AAAARCAYAAAAG/yacAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAU0lEQVR4nGNkYGD4z0AiYARpOhsnREdN/7//ZzBZ/R6v4hORfAys
+rCwITb8/f2ewWP99VNOoJqimX79/M/z9/wevJjYmNgZmFmYKEuypaAGSNAEAfols
+yXh91vkAAAAASUVORK5CYII="/>
+</symbol>
+<use xlink:href="#im29" x="0" y="0" width="13" height="17"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp30">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000045776 184.92 L 398.28 184.92 L 398.28 .000061035 L .000061035 .000045776 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp30)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 224.72 154.44 L 224.72 150.55 L 225.6 150.55 L 224.22 148.8 L 222.84 150.55 L 223.72 150.55 L 223.72 154.44 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 196.08 164.72 L 208.42 164.72 L 208.42 165.72 L 210.24 164.28 L 208.42 162.84 L 208.42 163.84 L 196.08 163.84 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 230.88 141.08 L 258.1 141.08 L 258.1 142.08 L 259.92 140.64 L 258.1 139.2 L 258.1 140.2 L 230.88 140.2 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 304.44 127.32 L 308.04 127.32 L 308.04 155.76 L 304.44 155.76 Z " fill="#c5e0b4" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,184.92)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#2f528f" d="M 304.44 127.32 L 308.04 127.32 L 308.04 155.76 L 304.44 155.76 Z "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 311.76 127.44 L 315.36003 127.44 L 315.36003 155.76001 L 311.76 155.76001 Z " fill="#fca752" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,184.92)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#2f528f" d="M 311.76 127.44 L 315.36003 127.44 L 315.36003 155.76001 L 311.76 155.76001 Z "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 308.16 127.32 L 311.76 127.32 L 311.76 155.64 L 308.16 155.64 Z " fill="#f8cbad" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,184.92)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#2f528f" d="M 308.16 127.32 L 311.76 127.32 L 311.76 155.64 L 308.16 155.64 Z "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 290.64 142.52 L 300.1 142.52 L 300.1 143.52 L 301.92 142.08 L 300.1 140.64 L 300.1 141.64 L 290.64 141.64 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp31">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000007629 184.92 L 398.28 184.92 L 398.28 .000076294 L -.000015259 .000061035 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp31)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 65.031 159.66 L 76.476 154.52 L 76.879 155.41 L 77.936 153.39 L 75.717 152.83 L 76.12 153.73 L 64.675 158.87 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp32">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000030518 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp32)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 64.828 113.3 L 76.29 118.4 L 75.891 119.3 L 78.108 118.73 L 77.043 116.71 L 76.644 117.61 L 65.182 112.5 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp33">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 8.4 100.92 L 63.120004 100.92 L 63.120004 128.28 L 8.4 128.28 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp33)">
+<g transform="matrix(.3623841,0,0,.3648,8.4,56.64)">
+<symbol id="im34" viewBox="0 0 151 75">
+<image width="151" height="75" xlink:href="data:image/jpeg;base64,
+/9j/4AAQSkZJRgABAQEAeAB4AAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkS
+Ew8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJ
+CQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy
+MjIyMjIyMjIyMjIyMjL/wAARCABLAJcDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEA
+AAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIh
+MUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6
+Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZ
+mqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx
+8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAV
+YnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hp
+anN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPE
+xcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDs
+o7Cea1yqIADnOeTUcFkXL+YHRQOoXPNbWnSSMGjfkAZBq/tVhyMj3FBzHIRx/vSH
+GQMg961Y7a3IVXbcyAEZbgcVo/Y4N7MIx26mpGt4nBBCjIxleDQBQstPeMlpCGye
+MHI+tX0iRRtCgAdqd5QEiEOcKMYJ608Z9aBCbaNtPX3prsQeKAHgcUu2qxLZ35Oe
+mMU9JHLfMSBQMm20yThMnsc0pkVOd+fxzVG6uSflB+XFAEpnBJqC6cSQMuOvrUcT
+1OQCtAGNdW58qQgnG3cQBgd6pxW7tYRhQCZZPLHPPXNadyxRZAOjKQaTRYAT5jni
+POwe560AXBpqLDEBECf4uPaqtzpMgs5nyq4DOcc9Oa2w525xWXql9KtvKiqoDKV6
+evFAHKXaH7TEhfcBEpHtkZ/rRSAl7vLMThQoP0FFAzs7SM5yDjA5rQyFTnqarWql
+eafcAkZoEKHHNPCgjpVRFK+oq5Ee1AhyoO60uz2qYDilxQBCEpDGc8Cp8UnAoAr+
+U3pR5ZB5FWARSN0pWGU5sEdAMVmT9TitC5fapNYV3dhJducv3UUwLUROaug/JVC1
+cSYINWpX2pxQBSuCCzfSn6MQYmJ/vVRuJvmbntT9LnMa8ZzuzQM6UfMOuKo3trC1
+vJ5k+MKSFBA57VZhPnAnOKo3sZZbgZ/1cZYUCOWtlDXpyeOe1FFmVN0SxIGD0FFA
+zvY9qL6UkjgjFZf9rDZjcDjpkUw6lv6sPyouI0eC1TpgEc1lJdqT96rS3IIpAagf
+NKWx1rOW4NK0xI6mmImmu1TvVRr854I/GsjUL0rMUHaqJunzkFs0DOpt7oyNyavb
+sisTTLgPbB2A3EnNXTdBaAG365jPNcLqLeXc7mY47kc11l9fBUNchqr/AGhFSMNl
+jknHFIEXbLUDFAkgY4JwAR1qeTWJXG3j8v8A69Y0sT3HkxW7xt5aYK7wCDnnj8ql
+Fld45j5PX5l/xouMnkuXPLDj8P8AGrFjfKrgMMAnrWG0N/PKwitmO3BIZ1XGfxqa
+3s79DmS3x/wNT/WgZ6BaTDbx3xUV2wVLlmYYeIoPr/kVzUF7cR4TdyByFIOPyq9d
+3atZEsxyFyR3zii4rGZpqq8z5GeMiiqlncGKQkc5GMUUx2Hi+I7ip47wscVgxuzH
+mrsT7e9QgsbkU565qc3rKvDViC5x3pkl5twc1QrG4uosXGGI45yc5qZr1yPv1zs2
+oJKV8uMR464PX9Ket2cdaAsarlXcvkkkc9Dj9KaPL9vyH+FZZuCe9PWZ53PlhQQP
+ug9fpQBrxXS26bBkLn1qb+0Aw++G+vWsEXrD5WA/EVG8wbnAz+VAWL+qamqL5ZLC
+RwSpDYxjH+Nc+9yrISZvnHYnke9Jqt0gELeXhhlWYsTkH/8AVWXK8QkaTCFXHHGR
+xQNIutcWixW3lRrHPET5kocnzM+3ale9V3VhORjsHxWaLuHH+pQ++0Ufa4j/AMso
+/wDvgUJWLk3LVmgLhAxYTEE+kpqwl+qREC4+Y5+85OKx/tUP/PKP/vkUfaYf+eSf
+98igmxtwXkSJD5IIkVSJD5m7e2eCB2q42oTSxFGdgpHIJrn7S5ie4RAgGT2FbIkj
+AwCw+ooSsOTux0TiM5VuaKblD3H40UCKqHFSCX3qsDS5oAsGX3qF5c96YxNRMaAJ
+vM5qeOXjrWcxOKfGx45oA0fMNIZD1HWq+TijNAFuBRMSvmhXP3Q3Q/jTHMkTlHBV
+h1Bqv3pGlkkxvdmxwNxzigCO8i+0qAxI29MVm3Mc21V2lgvQgdq1CaaaAMXbKB/q
+/wA1o/eY+aPP/AcVsECmECgLmTg4/wBXj8DUqlPLIMfzY61fwPSkKr6CgdyjZ5S5
+VzxjNa63JqsFHpTxQJlsTA9aKrCigD//2Q=="/>
+</symbol>
+<use xlink:href="#im34" x="0" y="0" width="151" height="75"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp35">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 8.4 146.4 L 63.120004 146.4 L 63.120004 173.76 L 8.4 173.76 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp35)">
+<g transform="matrix(.3623841,0,0,.3648,8.4,11.160004)">
+<symbol id="im36" viewBox="0 0 151 75">
+<image width="151" height="75" xlink:href="data:image/jpeg;base64,
+/9j/4AAQSkZJRgABAQEAeAB4AAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkS
+Ew8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJ
+CQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy
+MjIyMjIyMjIyMjIyMjL/wAARCABLAJcDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEA
+AAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIh
+MUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6
+Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZ
+mqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx
+8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAV
+YnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hp
+anN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPE
+xcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDt
+LGaWbRbW3vLFbmxUpcBUOJTkhtrBjhjkkk5GfSpLqyuNZ8T6bPYXM1vEPMeQldpM
+ec4II69OvrVPSdZsV05bc3CeZawxiXORt+UDnP1Fbfkxz+VMsjxypykkblWAODjI
+6jgcHg45rnWq1IRS0/VsahqdpPbyRw2rSTNcdU2lmPPoev5GptQhUywyq5MBilB+
+YtklDjaScAYB4qxZNKn2yEwW9xBNK7MjkqeCeCcEEH6DGe9VNT8pLiFYYnt/NFwT
+GzfK8hUsW4OD1OCegz0ptFI6jTFfMoZMoAAkx4aUBRkkY45yKr38cck8MUiB1kjd
+SDggglRgg9j0/Gp9MkczyRyRyIyr82eVJwv3T+IqrqSu8iLFI0UjJIqOBnax24JH
+Q8+tDKR4x4lsYvCfiyedvl0/Ud8g2ofkdSc8D2zVraMZFegavotjrjWlnfxGVY5v
+M2t/106fQjj6Vw3jFbbwt4gewt0eS38pJFBb/V5GNucc9M/jW1OempnKGuhn35mS
+xmktVJnVcqMc59q85cW7NIpMg3YHPByOcfrXZzeJIxDJiH5gp/j/AMK88mmE90XO
+EyenpRNqWwkmi1KIZYchAzA4BVeW44HFV7oq6AouzJAdOgyM4P6mpLd41SRAxAJy
+p/Cq/lvNciMMXPX5RUoo6bTbdYFOW3s6gsSe/NWFRCGZwBuYg47/ADGo7UjPHZQD
++tPTG0+Y38ZHv96kB7d4MVE8I6XhFGIeMD1JP/165z4pBDbaSNox5zAD6LWO3jOX
+TPD2k22m3G1o4P3/AMgPOAQM81zmreIr/XZbX7bJvMHyjAxng5P1PH5UPYdysUU4
+yo4qlbRbL+4fHDYwcfX/ABq5mq08626llC7ieazTsDT3Ow8AG2i8VxST7AoicZbj
+tRXKWerfZHM6glgu0MOB2/z+NFCZPMj0zTY4bjQLrTbuzt7a5uXjMpF7E7bAqgAr
+u3AdTyO9bWsaWZvEWjWmn3s1papI0ZW2chWT5OODjoMd+tJpckN3pNqwUGOSFTgg
+HjA4P8qo3et6HbSRW7Xz2/2dsYtZ2i255/gIBHHfOPxoTGadmmqN4g1WSBo2tIIz
+5cTA5aRjwM9AKtak86D/AE232SeXOqCNtw4A+YnjqAfzHvjFm13QpLlHGsyBpGCB
+IQGLdwT8pbOT+dcp4w8a2g1G0hhvdQuVtN6uRIqmQHGRvxnseoOc0avY0cYpbns+
+mSbpIlUqsZhYqm3aV5X/APX0qK/z5kYSVkZtyqyjOCR9Mdu9ePaV8SIbETXcNrKs
+zr87S6iskrDjA5gOcY4GePar+s+PZG1DWLSSe+totNkdPtFvskZ8P5fIxHjk+p6/
+jTknvYqEYydmzvbqRbeWBm4jRiwbdkH5wSMn+tVNV8WS3MUA0uKJWDmOVmmhcKcj
+nG4nHGc/zrg73xiur6Xc22nG5uXK+XJELbDEMGZmBEjE/crlLS/sI9QjY6ZLKlsd
+0iSSkCUjIBzkHjIPHpRFtdC/Y30TR9IG1Wa7u7d7WUxurBXkjiMX3U6AfN3PXuH7
+ba+aU8BatLKoubH7LcXDsh+1KsCp8xXeuDyuV5+U8EYByCezb4m28d22sW9vDDfT
+oVnaRXbIOxTgbsDhE7dV9zWHceLtOjtXQ2dij27xPbPHCzSRuiAIdzsRtARflOQS
+RweapzV7EvDy5XPSyOf8U+F9U8IvFHfWZUMWjikLqwfYQMjB6EZIyAcdutUvD2jf
+b9ViiZon3wTSMCcABUc9gcN8oIPuKv8AiC5i1vUJLiQxJNcXGZVic4JYlicE4HJP
+T1pdI1SSAm8toYFYQsMiM8blZG746E1LnpsKdCUWldffsUYp2iu1jJzhRwCAOamS
+RSuHcY3np/vf/WrK2tMJXCzGPPIMY456Zz79KabwW7+WmSsZI5+vSrM5Qa1Oi3xz
+QQkwRjbEAwIJDED73PeqiH50IPWTHX2NMxeyW7TxhFtkAj3FlGGYNtGDz/CfyqXR
+XjGowQ3NnDexmTDAgoQO5+UjpzTSbRU1TjK139xK0yKcF1BxnBNZN3cBJJclGAfG
+GxXaazJpdjcyRP4CuxFyI7lrtwsinow+Qj9eK5M2Y1Y3H2eAxmPIPyqc9cc4Bzn+
+VRy23Lg1y2i3rb+tyOztri8jJhdUbPLhMkD0Ax/kfWinJo2vCHHmJCu4sdr4JJ9c
+UUpJ30ZpRlJx3NhZ762s1itNT1JsncB9qZFQHnAXP1rNm029uJ3ld2Z3bcWkO4k/
+X1rXE2Bxj8TUEl0F/jAI7ChnJY6L4e6bZ2msR3WqQWdyiFkCz3aReXuHL7WI38E4
+Hr6HFerfZ/h+0pVtO8N7cZ8xxbnJz07n3rwex8Rajp07G1WUEHdHJE4RgffcrAjj
+oRWcbrX/AD/NimmB3bsPLkD6dMfhVRdkaSi27ry6n0S+k6Ymo2/9k6H4fgiEyBpW
+sM5XuVdVADdgD+dcSut6VaajP4h0uzjjt5WmkI8sBpmDdz1IJAOCcemK5lPiB4xN
+qsfl2KzLGYxOXlJwe+0uV3e+3Nc/5NzLFHHcX8oijO5YYsBQc5OeOeeacpaDhGz1
+/NHp3ifxRbRaHZA6qlyZrgswECwtEiowxsHzcsR1/KvOL65ub2aEG0tIY4URFeFA
+hfbj5mxnJOOtN/cqcpEqt6gc0xnLdzU7l+1UX7uuoyOIRKAzebJ0Mr53H0FK4V/v
+KG+ozRnFNLUzJzk+ohjjbG6JGwwbDDPP41Vk00yW8kMUojVsADsAPoBVsNTs0NIO
+eTd27mP/AMI5cj5ftUJBHqcVoNZzAHM0pHohBH6irQkqG5e7UbrZI3HdWzn+dGrB
+yurWJrMWy7ZfsqNLvYtJJ8zdTyOnbHFXY9Thv0uLeF2ikjYK5XgjvwfrkfhXJfb7
++3lkUQZTf0wcjt/SpLfUHtbjzTbzESKxYKvcsTz+tUkOpF87aR9C+BND1LTrFzc6
+raatYTKrQI8pdoT3AyDjOeQD1FeXatq8V1q8zhxiILEVRzkBVABx/wAB/WqGm+P0
+0y5iuI/DsL3CDBnZGDt7bgc4rjYTLBrDTOjqm91YkEAA5H+FJq6sXBN6tdV+p2J1
+KKQD5W3Hr8zUVz5ZSTgkHvgkUVElqaUF7pstGJDlyze2eKVUROigfhRuA9KQuKo4
+rklJuqIufWml6CiUvUbPTCxNIASaAHZopOnWkLUDFJxTKCRSZpgOBNOzxUQPNTyy
+o0cIFukZVSC6MTv5PJyTg/TA46UgGbiKUSUw03NADprqARkzLvUdcoSKy3vNOb/l
+xTPrgCtA/nntWddaeD88PB7p/hVK3ULsi83TCcmyYH/Zc1nXhX7XLsBC7yQCfepG
+UqxBGCOoNMkAkdnZQSTk9aqxaldWbJo7xih3Hn35oqsUGOFH60VEotvQ2pThBWbO
+w30m6mHoPoKG70jjFL03dxTT3qjeMQFwSMnsaLFGhvVepo+0oBweK3dGhiNv/q0+
++oztHtVK2wZZgQMG4cEY4+9imBnGYdcEg8A4qNrhV68Z5GT1rpGAbTp9wzhuM9q5
+gSPNftDK7SRRJLsRmJC/KzcDtzzTSC4faVPTB/Gmm7H+zSQIraezsoLbiMnntUkM
+aGR/lHA6Y46ZoGlciF6EIYMoIOamudUFy5mLZlclnVIQqg57Y/wFN1e2hi0yzljQ
+K7r8xB6/KKz7VQ09oCMhpBuz35p9ALgvlIJzwOp2nil+2KR1FZ8qgSNgVFgGiwGo
+LliMiM89Dkc1Gbp3YgRNx1IIqmHZMBSQOKsxSu7bWbIJ70WETSWslwoD2srE9Ci5
+P6VkyR7JWTnKnBDDBB9xXcaUWS3LCSTrjBckfkTWRq8Uf9pO2xdxAJOOpoTA57yW
+YgYIz3orQCjfRTA//9k="/>
+</symbol>
+<use xlink:href="#im36" x="0" y="0" width="151" height="75"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp37">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp37)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-92.784" x="19.032 22.746 25.386 27.419999 30.419999 33.06 34.854 36.054 39.054 42.168 46.607999 49.248 50.688 53.568">Target domain </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp38">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp38)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-85.584" x="22.272 24.305998 28.637999 31.505999 32.946 35.586004 38.466005 41.106008 42.546007 45.18601 48.18601">(Unlabeled)</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp39">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp39)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.024" font-family="TimesNewRomanPSMT"><tspan y="-138.82" x="17.76 21.109345 24.235802 27.247803 29.271868 31.91038 34.548894 35.86815 38.88015 41.98251 46.4222 49.06071 50.500448 53.37992">Source domain </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp40">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp40)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-131.59" x="24.12 26.154 29.754 32.394 35.274003 37.914007 39.354005 41.994009 44.994009">(Labeled)</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp41">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp41)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-129.12" x="213.24 217.2 220.314">RoI</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp42">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp42)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-129.12" x="223.68 227.87999 229.31999 230.76 233.874">Align</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp43">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp43)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-158.81" x="296.78 300.02 303.98 305.65403 307.09403 309.73405 312.49406 315.13407 317.16807">FC layers</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp44">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp44)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-159" x="169.44 173.4 176.754">RPN</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp45">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp45)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.984" font-family="TimesNewRomanPSMT"><tspan y="-137.78" x="114.19">F</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp46">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp46)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="4.704" font-family="TimesNewRomanPSMT"><tspan y="-136.1" x="117.91">s</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp47">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp47)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.96" font-family="TimesNewRomanPSMT"><tspan y="-128.35" x="114.46">F</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp48">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp48)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="4.68" font-family="TimesNewRomanPSMT"><tspan y="-126.67" x="118.18">t</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 11.04 26.844 L 27.746 26.844 L 27.746 28.8 L 31.32 25.98 L 27.746 23.16 L 27.746 25.116 L 11.04 25.116 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp49">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp49)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-23.928" x="34.104 37.458005 40.572004 43.572004 45.606004 48.246007 50.88601 52.20601 54.00601 55.446008 58.560007">Source flow</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp50">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp50)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.96" font-family="TimesNewRomanPSMT"><tspan y="-55.248" x="13.872 18.93192 20.734559 24.228478 27.722397 30.861357 32.663999 34.81464 39.87456 43.36848 48.55368 51.692644 53.49528 56.877843">Global Domain </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp51">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp51)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.96" font-family="TimesNewRomanPSMT"><tspan y="-46.848" x="20.016 24.93672 28.41672 31.52784 35.00784 36.94272 40.03296 41.96784 43.770479 47.250478">Adaptation</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 67.44 26.724 L 84.266 26.724 L 84.266 28.68 L 87.84 25.86 L 84.266 23.04 L 84.266 24.996 L 67.44 24.996 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp52">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp52)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-24.24" x="91.776 95.49 98.13 100.164 103.164 105.804 107.598 108.798 110.598 112.038 115.152">Target flow</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 5.88 9.96 C 5.88 12.876 8.0828 15.24 10.8 15.24 C 13.517 15.24 15.72 12.876 15.72 9.96 C 15.72 7.0439 13.517 4.68 10.8 4.68 C 8.0828 4.68 5.88 7.0439 5.88 9.96 Z " fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,184.92)" stroke-width="1.25" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#2f528f" d="M 5.88 9.96 C 5.88 12.876 8.0828 15.24 10.8 15.24 C 13.517 15.24 15.72 12.876 15.72 9.96 C 15.72 7.0439 13.517 4.68 10.8 4.68 C 8.0828 4.68 5.88 7.0439 5.88 9.96 Z "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" stroke-width="1.5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#4472c4" d="M 7.38 6.1597 L 14.383 13.62 "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" stroke-width="1.5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#4472c4" d="M 14.383 6.1597 L 7.38 13.62 "/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp53">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp53)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-8.112" x="19.296 23.034 24.473999 27.113999 31.577998 34.218 37.121999">Element</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp54">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp54)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-8.112" x="38.88">-</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp55">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp55)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-8.112" x="40.92 45.252 46.679998 48.959997 51.6 53.514 57.954 60.954 62.393999 64.187999 65.628 68.628 70.187999 71.74799 74.38799 77.02799 78.82199 80.26199 83.37599">wise multiplication</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp56">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 0 L -.000030518 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp56)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 289.32 88.08 L 289.965 88.08 L 289.965 98.085 L 289.32 98.085 Z " fill="#c00000" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp57">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 0 L -.000030518 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp57)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 289.96 98.085 L 294.6 102.72 L 293.95 102.72 L 289.32 98.085 Z " fill="#9a0000" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp58">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 0 L -.000030518 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp58)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 289.96 88.08 L 294.6 92.715 L 294.6 102.72 L 289.96 98.085 Z " fill="#cc3232" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp59">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp59)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-8.52" x="102.48 106.812007 108.83401 111.47401 114.47401 115.91401 118.55401 121.434009 123.228008 124.782009 126.81601 129.45601 132.33602 134.97602 137.01001 139.29001 141.93001">Gradient reversal</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp60">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000030518 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp60)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 321.24 90.96 L 357.01899 90.96 L 357.01899 98.0594 L 321.24 98.0594 Z " fill="#e4846a" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp61">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000030518 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp61)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 357.02 98.059 L 361.92 102.96 L 326.14 102.96 L 321.24 98.059 Z " fill="#b76a55" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp62">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000030518 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp62)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 357.02 90.96 L 361.92 95.861 L 361.92 102.96 L 357.02 98.059 Z " fill="#e99c87" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 298.2 97.035 L 314.45 97.035 L 314.45 97.92 L 316.2 96.54 L 314.45 95.16 L 314.45 96.045 L 298.2 96.045 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 298.2 94.597 L 314.38 94.597 L 314.38 95.52 L 316.2 94.08 L 314.38 92.64 L 314.38 93.563 L 298.2 93.563 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp63">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp63)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 164.56 96.96 L 164.56 111.12 L 163.56 111.12 L 165 111.12 L 166.44 111.12 L 165.44 111.12 L 165.44 96.96 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 165.24 111.12 L 260.28 111.12 L 260.28 112.08 L 260.28 110.7 L 260.28 109.32 L 260.28 110.28 L 165.24 110.28 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp64">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 0 184.92 L 398.28 184.92 L 398.28 .000045776 L .000030518 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp64)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 260.44 111 L 260.44 104.3 L 261.36 104.3 L 259.92 102.48 L 258.48 104.3 L 259.4 104.3 L 259.4 111 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 165.12 79.683 L 260.16 79.683 L 260.16 80.64 L 260.16 79.26 L 260.16 77.88 L 260.16 78.837 L 165.12 78.837 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp65">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 0 184.92 L 398.28 184.92 L 398.28 -.000015259 L 0 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp65)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 165.04 78.84 L 165.04 93 L 164.04 93 L 165.48 93 L 166.92 93 L 165.92 93 L 165.92 78.84 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp66">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000030518 184.92 L 398.28 184.92 L 398.28 0 L -.000030518 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp66)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 259.52 78.72 L 259.52 85.415 L 258.6 85.415 L 260.04 87.24 L 261.48 85.415 L 260.56 85.415 L 260.56 78.72 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp67">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000011444 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp67)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 15.12 64.8 L 50.899 64.8 L 50.899 71.89941 L 15.12 71.89941 Z " fill="#f4b183" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp68">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000011444 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp68)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 50.899 71.899 L 55.8 76.8 L 20.021 76.8 L 15.12 71.899 Z " fill="#c48e69" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp69">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000011444 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp69)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 50.899 64.8 L 55.8 69.701 L 55.8 76.8 L 50.899 71.899 Z " fill="#f6c09b" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 254.88 32.76 C 254.88 35.676 257.08 38.04 259.8 38.04 C 262.52 38.04 264.72 35.676 264.72 32.76 C 264.72 29.844 262.52 27.48 259.8 27.48 C 257.08 27.48 254.88 29.844 254.88 32.76 Z " fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,184.92)" stroke-width="1.25" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#2f528f" d="M 254.88 32.76 C 254.88 35.676 257.08 38.04 259.8 38.04 C 262.52 38.04 264.72 35.676 264.72 32.76 C 264.72 29.844 262.52 27.48 259.8 27.48 C 257.08 27.48 254.88 29.844 254.88 32.76 Z "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" stroke-width="1.5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#4472c4" d="M 256.38 28.96 L 263.38 36.42 "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" stroke-width="1.5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#4472c4" d="M 263.38 28.96 L 256.38 36.42 "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 232.56 35.077 L 250.18 35.077 L 250.18 36 L 252 34.56 L 250.18 33.12 L 250.18 34.043 L 232.56 34.043 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 268.44 34.717 L 284.62 34.717 L 284.62 35.64 L 286.44 34.2 L 284.62 32.76 L 284.62 33.683 L 268.44 33.683 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 268.56 32.197 L 284.74 32.197 L 284.74 33.12 L 286.56 31.68 L 284.74 30.24 L 284.74 31.163 L 268.56 31.163 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 232.56 32.235 L 250.13 32.235 L 250.13 33.12 L 251.88 31.74 L 250.13 30.36 L 250.13 31.245 L 232.56 31.245 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp70">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000091553 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000061035 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp70)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 321.12 30.12 L 356.779 30.12 L 356.779 37.219404 L 321.12 37.219404 Z " fill="#e4846a" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp71">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000091553 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000061035 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp71)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 356.78 37.219 L 361.68 42.12 L 326.02 42.12 L 321.12 37.219 Z " fill="#b76a55" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp72">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000091553 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000061035 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp72)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 356.78 30.12 L 361.68 35.021 L 361.68 42.12 L 356.78 37.219 Z " fill="#e99c87" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 298.08 36.277 L 314.14 36.277 L 314.14 37.2 L 315.96 35.76 L 314.14 34.32 L 314.14 35.243 L 298.08 35.243 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 298.08 33.757 L 314.14 33.757 L 314.14 34.68 L 315.96 33.24 L 314.14 31.8 L 314.14 32.723 L 298.08 32.723 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp73">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp73)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 164.56 34.56 L 164.56 48.72 L 163.56 48.72 L 165 48.72 L 166.44 48.72 L 165.44 48.72 L 165.44 34.56 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 165.24 48.801 L 260.28 48.801 L 260.28 49.8 L 260.28 48.36 L 260.28 46.92 L 260.28 47.919 L 165.24 47.919 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp74">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 0 184.92 L 398.28 184.92 L 398.28 .000045776 L .000030518 .000045776 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp74)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 260.44 48.6 L 260.44 42.025 L 261.36 42.025 L 259.92 40.2 L 258.48 42.025 L 259.4 42.025 L 259.4 48.6 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 165.12 17.403 L 260.16 17.403 L 260.16 18.36 L 260.16 16.98 L 260.16 15.6 L 260.16 16.557 L 165.12 16.557 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp75">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 0 184.92 L 398.28 184.92 L 398.28 -.000015259 L 0 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp75)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 165.04 16.56 L 165.04 30.72 L 164.04 30.72 L 165.48 30.72 L 166.92 30.72 L 165.92 30.72 L 165.92 16.56 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp76">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000030518 184.92 L 398.28 184.92 L 398.28 -.000030518 L -.000030518 -.000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp76)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 259.52 16.44 L 259.52 23.135 L 258.6 23.135 L 260.04 24.96 L 261.48 23.135 L 260.56 23.135 L 260.56 16.44 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp77">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 0 L -.000030518 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp77)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 289.32 26.52 L 289.965 26.52 L 289.965 36.405 L 289.32 36.405 Z " fill="#c00000" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp78">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 0 L -.000030518 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp78)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 289.96 36.405 L 294.6 41.04 L 293.95 41.04 L 289.32 36.405 Z " fill="#9a0000" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp79">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 0 L -.000030518 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp79)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 289.96 26.52 L 294.6 31.155 L 294.6 41.04 L 289.96 36.405 Z " fill="#cc3232" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp80">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp80)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 94.32 3 L 94.965 3 L 94.965 12.885 L 94.32 12.885 Z " fill="#c00000" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp81">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp81)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 94.965 12.885 L 99.6 17.52 L 98.955 17.52 L 94.32 12.885 Z " fill="#9a0000" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp82">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp82)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 94.965 3 L 99.6 7.635 L 99.6 17.52 L 94.965 12.885 Z " fill="#cc3232" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp83">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000045776 L -.000030518 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp83)">
+<path transform="matrix(1,0,0,-1,0,184.92)" stroke-width="1.5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#4472c4" d="M 224.41 146.66 L 224.73 136.44 "/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" stroke-width="1.5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#4472c4" d="M 229.73 141.3 L 219.66 141.07 "/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp84">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000030518 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp84)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 260.52 136.56 L 284.451 136.56 L 284.451 143.09149 L 260.52 143.09149 Z " fill="#cbcbcb" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp85">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000030518 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp85)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 284.45 143.09 L 288.96 147.6 L 265.03 147.6 L 260.52 143.09 Z " fill="#aaaaaa" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp86">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000030518 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp86)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 284.45 136.56 L 288.96 141.07 L 288.96 147.6 L 284.45 143.09 Z " fill="#d5d6d5" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp87">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp87)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.024" font-family="TimesNewRomanPSMT"><tspan y="-138.22" x="267.07 271.03004 274.99006">RCN</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp88">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp88)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.96" font-family="TimesNewRomanPSMT"><tspan y="-66" x="302.18 306.85017 309.96128 311.89616 314.9864 318.362 321.842 324.1249">Category</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp89">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp89)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.96" font-family="TimesNewRomanPSMT"><tspan y="-66" x="327.5">-</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp90">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp90)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.96" font-family="TimesNewRomanPSMT"><tspan y="-66" x="329.78 334.7007 339.72584 342.97618 345.25907">Aware</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp91">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp91)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.96" font-family="TimesNewRomanPSMT"><tspan y="-57.6" x="297.74 302.7651 306.24513 311.42338 314.5345 316.46937 319.81715 322.09306 327.01377 330.49378 333.6049 337.0849 339.01979 342.11003 344.0449 345.84754 349.4389">Domain Adaptation</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp92">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp92)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="5.04" font-family="TimesNewRomanPSMT"><tspan y="-91.104" x="183.79 188.23024 190.3924 194.3488 196.74785 198.54209 200.82018 202.25658 206.21298 208.61203 211.13204 213.65204 215.08844 217.2506 218.56603">Memory module 1</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp93">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000030518 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000015259 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp93)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 179.16 27.72 L 225.259 27.72 L 225.259 34.8194 L 179.16 34.8194 Z " fill="#ffd966" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp94">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000030518 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000015259 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp94)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 225.26 34.819 L 230.16 39.72 L 184.06 39.72 L 179.16 34.819 Z " fill="#cdae52" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp95">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000030518 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000015259 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp95)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 225.26 27.72 L 230.16 32.621 L 230.16 39.72 L 225.26 34.819 Z " fill="#ffe084" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp96">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp96)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="5.04" font-family="TimesNewRomanPSMT"><tspan y="-29.352" x="182.66 187.10025 189.2624 193.21881 195.61786 197.4121 199.69019 201.12659 205.083 207.48204 210.00205 212.52205 213.95845 216.1206 217.43604">Memory module K</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp97">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp97)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.96" font-family="TimesNewRomanPSMT"><tspan y="-64.752" x="183.84 190.07616 193.18727 198.34464 201.82463 204.1075">Memory</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp98">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp98)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.96" font-family="TimesNewRomanPSMT"><tspan y="-64.752" x="207.62">-</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp99">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp99)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.96" font-family="TimesNewRomanPSMT"><tspan y="-64.752" x="209.9 215.05039 218.53038 220.46526 223.94525 227.03549 230.51549">Guided </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp100">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp100)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.96" font-family="TimesNewRomanPSMT"><tspan y="-56.352" x="194.16 199.1016 201.03647 202.9435 206.08246 209.46501 211.49733 213.29998 216.91918">Attention</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp101">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp101)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="5.04" font-family="TimesNewRomanPSMT"><tspan y="-92.784" x="332.52 335.88169 339.48027 343.07884 344.3943">CDA 1</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp102">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp102)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="5.04" font-family="TimesNewRomanPSMT"><tspan y="-32.112" x="330.79 334.1517 337.75028 341.34886 342.6643">CDA K</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp103">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp103)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="CambriaMath"><tspan y="-102.26" x="235.54">&#x1d7bc;</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp104">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp104)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-102.26" x="239.5 241.54">(F</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp105">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp105)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="3.96" font-family="TimesNewRomanPSMT"><tspan y="-100.82" x="244.78">s</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp106">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp106)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-102.26" x="246.22">)</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp107">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp107)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="3.96" font-family="TimesNewRomanPSMT"><tspan y="-100.82" x="248.26">1</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp108">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp108)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.024" font-family="CambriaMath"><tspan y="-85.992" x="235.18">&#x1d7bc;</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp109">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp109)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.024" font-family="TimesNewRomanPSMT"><tspan y="-85.992" x="239.14 241.18">(F</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp110">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp110)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="3.984" font-family="TimesNewRomanPSMT"><tspan y="-84.552" x="244.42">t</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp111">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp111)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.024" font-family="TimesNewRomanPSMT"><tspan y="-85.992" x="245.5">)</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp112">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp112)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="3.984" font-family="TimesNewRomanPSMT"><tspan y="-84.552" x="247.54">1</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp113">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp113)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="CambriaMath"><tspan y="-39.552" x="234.82">&#x1d7bc;</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp114">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp114)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-39.552" x="238.78 240.81999">(F</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp115">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp115)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="3.96" font-family="TimesNewRomanPSMT"><tspan y="-38.112" x="244.06">s</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp116">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp116)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-39.552" x="245.5">)</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp117">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp117)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="3.96" font-family="TimesNewRomanPSMT"><tspan y="-38.112" x="247.54">K</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp118">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp118)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.024" font-family="CambriaMath"><tspan y="-23.592" x="234.74">&#x1d7bc;</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp119">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp119)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.024" font-family="TimesNewRomanPSMT"><tspan y="-23.592" x="238.7 240.73999">(F</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp120">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp120)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="3.984" font-family="TimesNewRomanPSMT"><tspan y="-22.152" x="244.01">t</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp121">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp121)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.024" font-family="TimesNewRomanPSMT"><tspan y="-23.592" x="245.09">)</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp122">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp122)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="3.984" font-family="TimesNewRomanPSMT"><tspan y="-22.152" x="247.13">K</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp123">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000061035 184.92 L 398.28 184.92 L 398.28 .000045776 L -.000091553 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp123)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 320.49 144.1 L 328.59 149 L 328.08 149.85 L 330.35 149.56 L 329.55 147.42 L 329.04 148.26 L 320.93 143.36 Z " fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp124">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 0 184.92 L 398.28 184.92 L 398.28 .000061035 L -.000030518 .000061035 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp124)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 321.39 141.03 L 330.4 138.12 L 330.7 139.06 L 331.98 137.16 L 329.83 136.36 L 330.13 137.29 L 321.12 140.2 Z " fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp125">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp125)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6.024" font-family="TimesNewRomanPSMT"><tspan y="-152.33" x="332.66 336.61778 339.73219 342.74418 345.6116 348.6236 350.0513 352.93077 355.94276 357.72587 360.60533 363.71974">Bounding box</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp126">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp126)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-145.1" x="337.46 339.494 342.134 345.134 347.168 349.808 352.08805 354.36808 355.80809 358.9221">regression</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp127">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp127)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="6" font-family="TimesNewRomanPSMT"><tspan y="-134.86" x="334.7 338.66004 340.10005 342.74006 345.02009 347.3001 348.8601 350.8941 352.3341 354.97413 357.61415 359.40815 360.84815 363.96217">Classification</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp128">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M .000005935 0 L 398.28 0 L 398.28 184.92 L .000005935 184.92 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp128)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 184.92)" font-size="5.064" font-family="TimesNewRomanPSMT"><tspan y="-66.36" x="28.224 31.824009 35.42402">GDA</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp129">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000007629 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp129)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 91.2 63.36 L 91.84499 63.36 L 91.84499 73.245 L 91.2 73.245 Z " fill="#c00000" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp130">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000007629 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp130)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 91.845 73.245 L 96.48 77.88 L 95.835 77.88 L 91.2 73.245 Z " fill="#9a0000" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp131">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000007629 .000030518 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp131)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 91.845 63.36 L 96.48 67.995 L 96.48 77.88 L 91.845 73.245 Z " fill="#cc3232" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 88.08 72.285 L 64.269 72.285 L 64.269 71.4 L 62.52 72.78 L 64.269 74.16 L 64.269 73.275 L 88.08 73.275 Z " fill="#ed7d31" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 87.96 69.045 L 64.269 69.045 L 64.269 68.16 L 62.52 69.54 L 64.269 70.92 L 64.269 70.035 L 87.96 70.035 Z " fill="#70ad47" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp132">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp132)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 85.08 117.48 L 87.1986 117.48 L 87.1986 138.919 L 85.08 138.919 Z " fill="#8faadc" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp133">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp133)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 87.199 138.92 L 91.2 142.92 L 89.081 142.92 L 85.08 138.92 Z " fill="#7389b1" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp134">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp134)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 87.199 117.48 L 91.2 121.48 L 91.2 142.92 L 87.199 138.92 Z " fill="#a5bbe3" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp135">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp135)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 84.12 136.68 L 86.2386 136.68 L 86.2386 158.11899 L 84.12 158.11899 Z " fill="#8faadc" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp136">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp136)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 86.239 158.12 L 90.24 162.12 L 88.121 162.12 L 84.12 158.12 Z " fill="#7389b1" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp137">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp137)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 86.239 136.68 L 90.24 140.68 L 90.24 162.12 L 86.239 158.12 Z " fill="#a5bbe3" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp138">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp138)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 82.68 114.96 L 84.7986 114.96 L 84.7986 136.399 L 82.68 136.399 Z " fill="#8faadc" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp139">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp139)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 84.799 136.4 L 88.8 140.4 L 86.681 140.4 L 82.68 136.4 Z " fill="#7389b1" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp140">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp140)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 84.799 114.96 L 88.8 118.96 L 88.8 140.4 L 84.799 136.4 Z " fill="#a5bbe3" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp141">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000007629 184.92 L 398.28 184.92 L 398.28 0 L 0 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp141)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 82.2 134.88 L 84.318599 134.88 L 84.318599 156.319 L 82.2 156.319 Z " fill="#8faadc" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp142">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000007629 184.92 L 398.28 184.92 L 398.28 0 L 0 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp142)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 84.319 156.32 L 88.32 160.32 L 86.201 160.32 L 82.2 156.32 Z " fill="#7389b1" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp143">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000007629 184.92 L 398.28 184.92 L 398.28 0 L 0 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp143)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 84.319 134.88 L 88.32 138.88 L 88.32 160.32 L 84.319 156.32 Z " fill="#a5bbe3" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp144">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp144)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 80.4 112.44 L 82.5186 112.44 L 82.5186 133.879 L 80.4 133.879 Z " fill="#8faadc" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp145">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp145)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 82.519 133.88 L 86.52 137.88 L 84.401 137.88 L 80.4 133.88 Z " fill="#7389b1" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp146">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp146)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 82.519 112.44 L 86.52 116.44 L 86.52 137.88 L 82.519 133.88 Z " fill="#a5bbe3" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp147">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp147)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 80.4 132.72 L 82.5186 132.72 L 82.5186 154.159 L 80.4 154.159 Z " fill="#8faadc" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp148">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp148)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 82.519 154.16 L 86.52 158.16 L 84.401 158.16 L 80.4 154.16 Z " fill="#7389b1" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp149">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp149)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 82.519 132.72 L 86.52 136.72 L 86.52 158.16 L 82.519 154.16 Z " fill="#a5bbe3" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp150">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000007629 184.92 L 398.28 184.92 L 398.28 0 L 0 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp150)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 78 110.04 L 80.1186 110.04 L 80.1186 131.479 L 78 131.479 Z " fill="#8faadc" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp151">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000007629 184.92 L 398.28 184.92 L 398.28 0 L 0 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp151)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 80.119 131.48 L 84.12 135.48 L 82.001 135.48 L 78 131.48 Z " fill="#7389b1" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp152">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000007629 184.92 L 398.28 184.92 L 398.28 0 L 0 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp152)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 80.119 110.04 L 84.12 114.04 L 84.12 135.48 L 80.119 131.48 Z " fill="#a5bbe3" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp153">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000007629 184.92 L 398.28 184.92 L 398.28 .000015259 L 0 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp153)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 78 130.2 L 80.1186 130.2 L 80.1186 151.63899 L 78 151.63899 Z " fill="#8faadc" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp154">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000007629 184.92 L 398.28 184.92 L 398.28 .000015259 L 0 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp154)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 80.119 151.64 L 84.12 155.64 L 82.001 155.64 L 78 151.64 Z " fill="#7389b1" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp155">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000007629 184.92 L 398.28 184.92 L 398.28 .000015259 L 0 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp155)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 80.119 130.2 L 84.12 134.2 L 84.12 155.64 L 80.119 151.64 Z " fill="#a5bbe3" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp156">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp156)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 81.72 120.96 L 85.1679 120.96 L 85.1679 144.808 L 81.72 144.808 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp157">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp157)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 85.168 144.81 L 91.68 151.32 L 88.232 151.32 L 81.72 144.81 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp158">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp158)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 85.168 120.96 L 91.68 127.47 L 91.68 151.32 L 85.168 144.81 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp159">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp159)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 82.68 120.96 L 86.1279 120.96 L 86.1279 144.808 L 82.68 144.808 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp160">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp160)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 86.128 144.81 L 92.64 151.32 L 89.192 151.32 L 82.68 144.81 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp161">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp161)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 86.128 120.96 L 92.64 127.47 L 92.64 151.32 L 86.128 144.81 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp162">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp162)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 85.8 120.96 L 86.349369 120.96 L 86.349369 144.909 L 85.8 144.909 Z " fill="#2f5597" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp163">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp163)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 86.349 144.91 L 92.76 151.32 L 92.211 151.32 L 85.8 144.91 Z " fill="#264479" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp164">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp164)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 86.349 120.96 L 92.76 127.37 L 92.76 151.32 L 86.349 144.91 Z " fill="#5876ab" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp165">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp165)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 87.48 128.64 L 89.723209 128.64 L 89.723209 140.123 L 87.48 140.123 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp166">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp166)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 89.723 140.12 L 93.96 144.36 L 91.717 144.36 L 87.48 140.12 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp167">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp167)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 89.723 128.64 L 93.96 132.88 L 93.96 144.36 L 89.723 140.12 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp168">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp168)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 89.28 128.64 L 91.4817 128.64 L 91.4817 140.202 L 89.28 140.202 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp169">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp169)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 91.482 140.2 L 95.64 144.36 L 93.438 144.36 L 89.28 140.2 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp170">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp170)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 91.482 128.64 L 95.64 132.8 L 95.64 144.36 L 91.482 140.2 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp171">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp171)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 90.96 128.76 L 93.1617 128.76 L 93.1617 140.32199 L 90.96 140.32199 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp172">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp172)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 93.162 140.32 L 97.32 144.48 L 95.118 144.48 L 90.96 140.32 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp173">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp173)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 93.162 128.76 L 97.32 132.92 L 97.32 144.48 L 93.162 140.32 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp174">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp174)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 92.88 128.76 L 95.1232 128.76 L 95.1232 140.243 L 92.88 140.243 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp175">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp175)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 95.123 140.24 L 99.36 144.48 L 97.117 144.48 L 92.88 140.24 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp176">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp176)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 95.123 128.76 L 99.36 133 L 99.36 144.48 L 95.123 140.24 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp177">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp177)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 95.04 128.76 L 97.2832 128.76 L 97.2832 140.243 L 95.04 140.243 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp178">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp178)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 97.283 140.24 L 101.52 144.48 L 99.277 144.48 L 95.04 140.24 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp179">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp179)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 97.283 128.76 L 101.52 133 L 101.52 144.48 L 97.283 140.24 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp180">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp180)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 96.96 128.76 L 97.319919 128.76 L 97.319919 140.15999 L 96.96 140.15999 Z " fill="#2f5597" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp181">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp181)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 97.32 140.16 L 101.52 144.36 L 101.16 144.36 L 96.96 140.16 Z " fill="#264479" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp182">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp182)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 97.32 128.76 L 101.52 132.96 L 101.52 144.36 L 97.32 140.16 Z " fill="#5876ab" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp183">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp183)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 98.4 132 L 99.39699 132 L 99.39699 138.517 L 98.4 138.517 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp184">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp184)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 99.397 138.52 L 101.28 140.4 L 100.28 140.4 L 98.4 138.52 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp185">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp185)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 99.397 132 L 101.28 133.88 L 101.28 140.4 L 99.397 138.52 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp186">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp186)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 99.24 132 L 100.236988 132 L 100.236988 138.517 L 99.24 138.517 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp187">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp187)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 100.24 138.52 L 102.12 140.4 L 101.12 140.4 L 99.24 138.52 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp188">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp188)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 100.24 132 L 102.12 133.88 L 102.12 140.4 L 100.24 138.52 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp189">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp189)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 99.96 131.88 L 100.956989 131.88 L 100.956989 138.397 L 99.96 138.397 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp190">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp190)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 100.96 138.4 L 102.84 140.28 L 101.84 140.28 L 99.96 138.4 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp191">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp191)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 100.96 131.88 L 102.84 133.76 L 102.84 140.28 L 100.96 138.4 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp192">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp192)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 100.92 131.88 L 101.916988 131.88 L 101.916988 138.397 L 100.92 138.397 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp193">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp193)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 101.92 138.4 L 103.8 140.28 L 102.8 140.28 L 100.92 138.4 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp194">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp194)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 101.92 131.88 L 103.8 133.76 L 103.8 140.28 L 101.92 138.4 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp195">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp195)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 101.76 131.88 L 102.75699 131.88 L 102.75699 138.397 L 101.76 138.397 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp196">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp196)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 102.76 138.4 L 104.64 140.28 L 103.64 140.28 L 101.76 138.4 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp197">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp197)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 102.76 131.88 L 104.64 133.76 L 104.64 140.28 L 102.76 138.4 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp198">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp198)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 102.48 131.88 L 103.47699 131.88 L 103.47699 138.397 L 102.48 138.397 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp199">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp199)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 103.48 138.4 L 105.36 140.28 L 104.36 140.28 L 102.48 138.4 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp200">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp200)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 103.48 131.88 L 105.36 133.76 L 105.36 140.28 L 103.48 138.4 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp201">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp201)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 103.32 131.88 L 104.316989 131.88 L 104.316989 138.397 L 103.32 138.397 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp202">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp202)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 104.32 138.4 L 106.2 140.28 L 105.2 140.28 L 103.32 138.4 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp203">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp203)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 104.32 131.88 L 106.2 133.76 L 106.2 140.28 L 104.32 138.4 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp204">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp204)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 104.04 132 L 105.03699 132 L 105.03699 138.517 L 104.04 138.517 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp205">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp205)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 105.04 138.52 L 106.92 140.4 L 105.92 140.4 L 104.04 138.52 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp206">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp206)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 105.04 132 L 106.92 133.88 L 106.92 140.4 L 105.04 138.52 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp207">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp207)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 104.76 131.88 L 105.7985 131.88 L 105.7985 138.31851 L 104.76 138.31851 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp208">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp208)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 105.8 138.32 L 107.76 140.28 L 106.72 140.28 L 104.76 138.32 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp209">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp209)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 105.8 131.88 L 107.76 133.84 L 107.76 140.28 L 105.8 138.32 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp210">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp210)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 105.48 131.88 L 106.47699 131.88 L 106.47699 138.517 L 105.48 138.517 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp211">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp211)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 106.48 138.52 L 108.36 140.4 L 107.36 140.4 L 105.48 138.52 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp212">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp212)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 106.48 131.88 L 108.36 133.76 L 108.36 140.4 L 106.48 138.52 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp213">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp213)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 105.96 132 L 106.956989 132 L 106.956989 138.517 L 105.96 138.517 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp214">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp214)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 106.96 138.52 L 108.84 140.4 L 107.84 140.4 L 105.96 138.52 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp215">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 0 L -.000007629 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp215)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 106.96 132 L 108.84 133.88 L 108.84 140.4 L 106.96 138.52 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp216">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp216)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 106.68 131.88 L 107.67699 131.88 L 107.67699 138.397 L 106.68 138.397 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp217">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp217)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 107.68 138.4 L 109.56 140.28 L 108.56 140.28 L 106.68 138.4 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp218">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp218)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 107.68 131.88 L 109.56 133.76 L 109.56 140.28 L 107.68 138.4 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp219">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp219)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 107.28 132 L 108.3185 132 L 108.3185 138.4385 L 107.28 138.4385 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp220">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp220)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 108.32 138.44 L 110.28 140.4 L 109.24 140.4 L 107.28 138.44 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp221">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 0 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp221)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 108.32 132 L 110.28 133.96 L 110.28 140.4 L 108.32 138.44 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp222">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp222)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 107.76 131.88 L 108.75699 131.88 L 108.75699 138.397 L 107.76 138.397 Z " fill="#b4c7e7" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp223">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp223)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 108.76 138.4 L 110.64 140.28 L 109.64 140.28 L 107.76 138.4 Z " fill="#91a0ba" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp224">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000022888 184.92 L 398.28 184.92 L 398.28 0 L -.000015259 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp224)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 108.76 131.88 L 110.64 133.76 L 110.64 140.28 L 108.76 138.4 Z " fill="#c3d2ec" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp225">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp225)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 108.24 132.12 L 109.236988 132.12 L 109.236988 138.637 L 108.24 138.637 Z " fill="#2f5597" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp226">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp226)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 109.24 138.64 L 111.12 140.52 L 110.12 140.52 L 108.24 138.64 Z " fill="#264479" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp227">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M -.000015259 184.92 L 398.28 184.92 L 398.28 .000015259 L -.000007629 .000015259 " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp227)">
+<path transform="matrix(1,0,0,-1,0,184.92)" d="M 109.24 132.12 L 111.12 134 L 111.12 140.52 L 109.24 138.64 Z " fill="#5876ab" fill-rule="evenodd"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

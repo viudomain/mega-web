@@ -1,60 +1,49 @@
+
 <!DOCTYPE html>
+
 <html>
+
 <head>
-  <meta charset="utf-8">
-  <meta name="description"
-        content="HyperNeRF handles topological variations by modeling a family of shapes in a higher-dimensional space, thereby producing more realistic renderings and more accurate geometric reconstructions.">
-  <meta name="keywords" content="HyperNeRF, Nerfies, D-NeRF, NeRF">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta property="og:image" content="./static/images/thumbnail.png"/>
-  <link rel="image_src" href="./static/images/thumbnail.png">
-  <link rel="icon"
-        type="image/x-icon"
-        href="./static/images/favicon.ico"/>
+   <style>
+      td, th {
+        border: 0px solid black;          
+        }
+      img{
+   padding: 5px;
+}
+      </style>
 
-  <title>HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance
-    Fields</title>
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EDF010G6PN"></script>
-  <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-EDF010G6PN');
-
-
-  </script>
-
-  <script type="module"
-          src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
-  <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-  <script src="https://unpkg.com/interactjs/dist/interact.min.js"></script>
+  <title>MeGA-CDA</title>
 
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
         rel="stylesheet">
 
-  <link rel="stylesheet" type="text/css" href="./static/slick/slick.css"/>
-  <link rel="stylesheet" type="text/css" href="./static/slick/slick-theme.css"/>
+  <link rel="shortcut icon" href="./static/images/cvpr/jhu_web.png" />
 
   <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
   <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
   <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
   <link rel="stylesheet"
         href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
   <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/favicon.svg">
+  <link rel="stylesheet" href="https://unpkg.com/image-compare-viewer/dist/image-compare-viewer.min.css">
+  <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
 
+<script src="https://unpkg.com/image-compare-viewer/dist/image-compare-viewer.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
   <script src="./static/js/bulma-slider.min.js"></script>
   <script src="./static/js/index.js"></script>
-</head>
-<body>
 
-<nav class="navbar" role="navigation" aria-label="main navigation">
+</head>
+
+<body>
+  
+<!-- <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
       <span aria-hidden="true"></span>
@@ -75,7 +64,7 @@
           More Research
         </a>
         <div class="navbar-dropdown">
-          <a class="navbar-item" href="https://hypernerf.github.io">
+          <a class="navbar-item" href="">
             HyperNeRF
           </a>
           <a class="navbar-item" href="https://nerfies.github.io">
@@ -92,87 +81,41 @@
     </div>
 
   </div>
-</nav>
+</nav>  -->
 
 
 <section class="hero">
   <div class="hero-body">
-    <div class="container">
+    <div class="container is-max-desktop">
       <div class="columns is-centered">
-        <div class="column is-4 has-text-centered">
-          <img src="static/images/logo.svg" alt="HyperNeRF"/>
-        </div>
-      </div>
-      <div class="container has-text-centered">
-        <h1 class="title is-1 publication-title">
-          A Higher-Dimensional Representation<br/>for Topologically Varying Neural Radiance Fields
-        </h1>
-        <div class="is-size-5 publication-authors">
-          <div class="author-block">
-            <div class="author-portrait">
-              <img src="./static/images/portraits/keunhong_rgb.128.gif" class="rgb preload" />
-              <img src="./static/images/portraits/keunhong_depth.128.gif" class="depth preload" />
-            </div>
-            <a href="https://keunhong.com">Keunhong Park</a><sup>1,2</sup></div>
-          <div class="author-block">
-            <div class="author-portrait">
-              <img src="./static/images/portraits/utsinh_rgb.128.gif" class="rgb preload" />
-              <img src="./static/images/portraits/utsinh_depth.128.gif" class="depth preload" />
-            </div>
-            <a href="https://utkarshsinha.com">Utkarsh Sinha</a><sup>2</sup></div>
-          <div class="author-block">
-            <div class="author-portrait">
-              <img src="./static/images/portraits/hedman_rgb.128.gif" class="rgb preload" />
-              <img src="./static/images/portraits/hedman_depth.128.gif" class="depth preload" />
-            </div>
-            <a href="https://phogzone.com/">Peter Hedman</a><sup>2</sup></div>
-          <div class="author-block">
-            <div class="author-portrait">
-              <img src="./static/images/portraits/barron_rgb.128.gif" class="rgb preload" />
-              <img src="./static/images/portraits/barron_depth.128.gif" class="depth preload" />
-            </div>
-            <a href="https://jonbarron.info">Jonathan T. Barron</a><sup>2</sup>
-          </div>
-          <div class="author-block">
-            <div class="author-portrait">
-              <img src="./static/images/portraits/sofien_rgb.128.gif" class="rgb preload" />
-              <img src="./static/images/portraits/sofien_depth.128.gif" class="depth preload" />
-            </div>
-            <a href="http://sofienbouaziz.com">Sofien Bouaziz</a><sup>2</sup>
-          </div>
-          <div class="author-block">
-            <div class="author-portrait">
-              <img src="./static/images/portraits/dgo_rgb.128.gif" class="rgb preload" />
-              <img src="./static/images/portraits/dgo_depth.128.gif" class="depth preload" />
-            </div>
-            <a href="https://www.danbgoldman.com">Dan B Goldman</a><sup>2</sup>
-          </div>
-          <div class="author-block">
-            <div class="author-portrait">
-              <img src="./static/images/portraits/rmbrualla_rgb.128.gif" class="rgb preload" />
-              <img src="./static/images/portraits/rmbrualla_depth.128.gif" class="depth preload" />
-            </div>
-            <a href="http://www.ricardomartinbrualla.com">Ricardo Martin-Brualla</a><sup>2</sup>
-          </div>
-          <div class="author-block">
-            <div class="author-portrait">
-              <img src="./static/images/portraits/smseitz_rgb.128.gif" class="rgb preload" />
-              <img src="./static/images/portraits/smseitz_depth.128.gif" class="depth preload" />
-            </div>
-            <a href="https://homes.cs.washington.edu/~seitz/">Steven M. Seitz</a><sup>1,2</sup>
-          </div>
-        </div>
-
-        <div class="is-size-5 publication-authors">
-          <span class="author-block"><sup>1</sup>University of Washington,</span>
-          <span class="author-block"><sup>2</sup>Google Research</span>
-        </div>
-
         <div class="column has-text-centered">
-          <div class="publication-links">
-            <!-- PDF Link. -->
-            <span class="link-block">
-                <a href="https://arxiv.org/pdf/2106.13228.pdf"
+          <h1 class="title is-1 publication-title">MeGA-CDA: Memory Guided Attention for Category-Aware
+            Unsupervised Domain Adaptive Object Detection</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://jeya-maria-jose.github.io/research">Vibashan VS</a><sup>1,2</sup>,</span>
+            <span class="author-block">
+              <a href="https://sites.google.com/site/hezhangsprinter/">Vikram Gupta</a><sup>2</sup>,</span>
+            <span class="author-block">
+              <a href="https://jimmie33.github.io/">Poojan Oza</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://yilinwang.org/">Vishwanath A. Sindagi</a><sup>1</sup>,
+            </span>
+              <a href="https://engineering.jhu.edu/vpatel36/sciencex_teams/vishalpatel/">Vishal M. Patel</a><sup>1</sup>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup>Johns Hopkins University,</span>
+            <span class="author-block"><sup>2</sup>Mercedes-Benz Research and Development India</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2203.08216"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fas fa-file-pdf"></i>
@@ -180,140 +123,18 @@
                   <span>Paper</span>
                 </a>
               </span>
-            <span class="link-block">
-                <a href="https://arxiv.org/abs/2106.13228"
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2203.08216"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="ai ai-arxiv"></i>
                   </span>
                   <span>arXiv</span>
                 </a>
-            </span>
-            <span class="link-block">
-              <a href="https://github.com/google/hypernerf"
-                 class="external-link button is-normal is-rounded is-dark">
-                <span class="icon">
-                    <i class="fab fa-github"></i>
-                </span>
-                <span>Code</span>
-                </a>
-            </span>
-            <!-- Dataset Link. -->
-            <span class="link-block">
-              <a href="https://github.com/google/hypernerf/releases/tag/v0.1"
-                 class="external-link button is-normal is-rounded is-dark">
-                <span class="icon">
-                    <i class="far fa-images"></i>
-                </span>
-                <span>Data</span>
-                </a>
               </span>
+            </div>
           </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
 
-<section class="hero teaser">
-  <div class="hero-body">
-    <div class="container is-max-desktop">
-      <video id="teaser" autoplay controls muted loop height="100%">
-        <source src="./static/images/teaser.mp4"
-                type="video/mp4">
-      </video>
-      <h2 class="subtitle has-text-centered">
-        <i>HyperNeRF</i> handles topological variations by modeling a
-        family of shapes in a higher-dimensional space, thereby producing more realistic renderings
-        and more accurate geometric reconstructions.
-      </h2>
-    </div>
-  </div>
-</section>
-
-
-<section class="hero is-dark is-small">
-  <div class="hero-body">
-    <div class="container has-text-centered">
-      <div id="results-carousel" class="carousel results-carousel">
-
-        <div>
-          <div class="results-item">
-            <video poster="" id="espresso-rgb" autoplay controls muted loop height="100%">
-              <source src="./static/videos/espresso_rgb.mp4"
-                      type="video/mp4">
-            </video>
-            <video poster="" id="espresso-depth" autoplay controls muted loop height="100%">
-              <source src="./static/videos/espresso_depth.mp4"
-                      type="video/mp4">
-            </video>
-          </div>
-        </div>
-
-        <div>
-          <div class="results-item">
-            <video poster="" id="split-cookie-rgb" autoplay controls muted loop height="100%">
-              <source src="./static/videos/split-cookie_rgb.mp4"
-                      type="video/mp4">
-            </video>
-            <video poster="" id="split-cookie-depth" autoplay controls muted loop height="100%">
-              <source src="./static/videos/split-cookie_depth.mp4"
-                      type="video/mp4">
-            </video>
-          </div>
-        </div>
-
-        <div>
-          <div class="results-item">
-            <video poster="" id="3dprinter-rgb" autoplay controls muted loop height="100%">
-              <source src="./static/videos/3dprinter_rgb.mp4"
-                      type="video/mp4">
-            </video>
-            <video poster="" id="3dprinter-depth" autoplay controls muted loop height="100%">
-              <source src="./static/videos/3dprinter_depth.mp4"
-                      type="video/mp4">
-            </video>
-          </div>
-        </div>
-
-        <div>
-          <div class="results-item">
-            <video poster="" id="ricardo-rgb" autoplay controls muted loop height="100%">
-              <source src="./static/videos/ricardo_rgb.mp4"
-                      type="video/mp4">
-            </video>
-            <video poster="" id="ricardo-depth" autoplay controls muted loop height="100%">
-              <source src="./static/videos/ricardo_depth.mp4"
-                      type="video/mp4">
-            </video>
-          </div>
-        </div>
-
-        <div>
-          <div class="results-item">
-            <video poster="" id="americano-rgb" autoplay controls muted loop height="100%">
-              <source src="./static/videos/americano_rgb.mp4"
-                      type="video/mp4">
-            </video>
-            <video poster="" id="americano-depth" autoplay controls muted loop height="100%">
-              <source src="./static/videos/americano_depth.mp4"
-                      type="video/mp4">
-            </video>
-          </div>
-        </div>
-
-      </div>
-
-      <div class="columns is-centered has-text-centered">
-        <div class="column is-three-quarters">
-          <p>
-            Here we show results generated with <i>HyperNeRF</i>. These videos show the input video
-            being
-            played
-            back with a stabilized novel camera path. The right side video shows the depth of the
-            scene.
-            Click on the arrows or drag to see more results.
-          </p>
         </div>
       </div>
     </div>
@@ -323,33 +144,24 @@
 
 <section class="section">
   <div class="container is-max-desktop">
-
     <!-- Abstract. -->
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            Neural Radiance Fields (NeRF) are able to reconstruct scenes with unprecedented
-            fidelity,
-            and various recent works have extended NeRF to handle dynamic scenes. A common approach
-            to reconstruct such non-rigid scenes is through the use of a learned deformation field
-            mapping from coordinates in each input image into a canonical template coordinate space.
-            However, these deformation-based approaches struggle to model changes in topology, as
-            topological changes require a discontinuity in the deformation field, but these
-            deformation fields are necessarily continuous.
-          </p>
-          <p>
-            We address this limitation by lifting
-            NeRFs into a higher dimensional space, and by representing the 5D radiance field
-            corresponding to each individual input image as a slice through this "hyper-space". Our
-            method is inspired by level set methods, which model the evolution of surfaces as slices
-            through a higher dimensional surface. We evaluate our method on two tasks: (i)
-            interpolating smoothly between "moments", i.e., configurations of the scene, seen in the
-            input images while maintaining visual plausibility, and (ii) novel-view synthesis at
-            fixed moments. We show that our method, which we dub HyperNeRF, outperforms existing
-            methods on both tasks. Compared to Nerfies, <i>HyperNeRF</i> reduces average error rates by
-            4.1% for interpolation and 8.6% for novel-view synthesis, as measured by LPIPS.
+            Existing approaches for unsupervised domain adaptive object detection perform feature alignment via adversarial training. While these methods achieve reasonable improvements in performance, they typically perform
+            category-agnostic domain alignment, thereby resulting in
+            negative transfer of features. To overcome this issue, in
+            this work, we attempt to incorporate category information
+            into the domain adaptation process by proposing Memory
+            Guided Attention for Category-Aware Domain Adaptation
+            (MeGA-CDA). The proposed method consists of employing
+            category-wise discriminators to ensure category-aware feature alignment for learning domain-invariant discriminative features. However, since the category information is
+            not available for the target samples, we propose to generate memory-guided category-specific attention maps which
+            are then used to route the features appropriately to the corresponding category discriminator. The proposed method is
+            evaluated on several benchmark datasets and is shown to
+            outperform existing approaches.
           </p>
         </div>
       </div>
@@ -357,155 +169,115 @@
     <!--/ Abstract. -->
 
     <!-- Paper video. -->
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
-        <h2 class="title is-2">Video</h2>
-        <div class="publication-video">
-          <iframe width="640" height="480" src="https://www.youtube.com/embed/qzgdE_ghkaI"
-                  title="YouTube video player" frameborder="0"
-                  allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowfullscreen></iframe>
-        </div>
+        <h2 class="title is-3">Method</h2>
+          <div class="content has-text-justified">
+            <h5 class="subtitle has-text-centered"></h5> 
+          <center>Overview of the proposed framework</center>
+            <img src="./static/images/cvpr/Archi_v2.svg" alt="" border=0 height=500 width=1500></img></
+          <p>
+            Source and target features are aligned through global domain adaptation and categoryaware domain adaptation. 
+            Category-aware alignment is achieved by employing K category-specific discriminators. Since target labels are
+            unavailable, the features to these discriminators are routed using memory-guided category-specific attention maps. Note that the arrows
+            indicate the flow of source and target images during the training process.
+          </p> 
+          <div class="columns is-centered">
+            <!-- Level Sets. -->
+            <div class="column is-half">
+              <div class="content">
+                <h3 class="title is-4">Memory block</h3>
+                <div class="level-set has-text-justified">
+                  <div class="level-set-shapes">
+                    <img src="./static/images/cvpr/mem_block_v1.svg" style="width: 100%"/>
+                  </div>
+                  <p>
+                    A memory module has two operations, namely write and
+                    read. To write in to the memory, features extracted from
+                    the neural network are used to update the memory elements
+                    appropriately. Whereas, the memory read operation is
+                    used by the features extracted from the neural network to
+                    query the memory and retrieve the most similar memory
+                    element (or prototypical feature).
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!--/ Level Sets. -->
+            <div class="column is-half">
+              <div class="content has-text-justified">
+                <h3 class="is-4">Category-Aware Attention</h3>
+                <div class="level-set-ox-shapes">
+                  <img src="./static/images/cvpr/mem_attn_block_v1.svg" style="width: 100%"/>
+                </div>
+                <p>
+                  For determining the attention at a particular
+                  location, we use the feature at this location as a query to
+                  retrieve relevant items from the different category-specific
+                  memory networks. The retrieved items are then compared
+                  with the query item and based on the similarity, we compute the category-specific attention map. Furthermore, in
+                  order to improve the effectiveness of the memory module and the attention map generation process, we propose
+                  a metric-learning based approach that involves learning an
+                  appropriate similarity metric based on the available weaksupervision in the source domain.
+                </p>
+              </div>
+            </div>
+      
+          </div>
+       </div>
       </div>
     </div>
-    <!--/ Paper video. -->
-  </div>
 </section>
-
-<hr/>
 
 <section class="section">
   <div class="container is-max-desktop">
-    <h2 class="title is-3">Motivation</h2>
-    <div class="columns is-centered">
-      <!-- Level Sets. -->
-      <div class="column is-half">
-        <div class="content">
-          <h3 class="title is-4">Level-Set Methods</h3>
-          <div class="level-set has-text-justified">
-            <p>
-              HyperNeRF represents changes in scene topology by providing a
-              NeRF with a higher-dimensional input. This is inspired by level-set methods.
-              Level-set methods provide a means to model a family of topologically-varying shapes as
-              slices of a higher dimensional auxiliary function. For example, these shapes
-            </p>
-            <div class="level-set-shapes">
-              <img src="./static/figures/level_set/0.svg"/>
-              <img src="./static/figures/level_set/1.svg"/>
-              <img src="./static/figures/level_set/2.svg"/>
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Results</h2>
+          <div class="content has-text-justified">
+            <h5 class="subtitle has-text-centered"></h5> 
+          <div class="columns is-centered">
+            <!-- Level Sets. -->
+            <div class="column is-half">
+              <div class="content">
+                <div class="level-set has-text-justified">
+                  <div class="level-set-shapes">
+                    <img src="./static/images/cvpr/mem_attn.svg"  style="width: 100%"/>
+                  </div>
+                  <p>
+                    Qualitative detection results. Global alignment results in
+                    miss-detections. In contrast, the proposed approach reduces false-
+                    positives while achieving high-quality detections.
+                  </p>
+                </div>
+              </div>
             </div>
-            <p>
-              can be represented as slices through this auxiliary shape
-            </p>
-            <model-viewer class="level-set-slices"
-                          src="./static/figures/level_set/level_set_3d.glb"
-                          alt="Slices through a 3D ambient surface."
-                          environment-image="neutral" auto-rotate camera-controls></model-viewer>
-            <p>
-              We can naturally model topologically varying shapes by just moving the
-              slicing plane along the higher dimensions. For example, this animation was generated
-              by
-              moving the slicing plane from top to bottom:
-            </p>
-            <div class="has-text-centered">
-              <video class="level-set-interpolate" controls autoplay loop muted height="100%">
-                <source src="./static/figures/level_set/interpolate2.mp4" type="video/mp4">
-              </video>
+
+            <!--/ Level Sets. -->
+            <div class="column is-half">
+              <div class="content has-text-justified">
+                <div class="level-set-ox-shapes">
+                  <img src="./static/images/cvpr/detect_vis.png"  style="width: 100%"/>
+                  <p>
+                    Comparison of attention maps computed using cosine similarity (top-row) and learned similarity based attention
+                    (bottom-row). Though cosine similarity based provides reasonable focus on category features, learned similarity obtains more
+                    accurate attention.
+                  </p>
+                </div>
+              </div>
             </div>
+      
           </div>
-        </div>
-      </div>
-      <!--/ Level Sets. -->
-
-      <div class="column is-half">
-        <div class="content has-text-justified">
-          <h3 class="is-4">Slicing Surfaces</h3>
-          <p>
-            Consider the follow shapes, which have different permutations of O xand X.
-          </p>
-          <div class="level-set-ox-shapes">
-            <img src="./static/figures/level_set/ox/0.svg"/>
-            <img src="./static/figures/level_set/ox/1.svg"/>
-            <img src="./static/figures/level_set/ox/2.svg"/>
-            <img src="./static/figures/level_set/ox/3.svg"/>
-          </div>
-          <p>
-            Traditionally, level-set methods use straight planes to slice the higher-dimensional
-            surface:
-          </p>
-          <model-viewer class="level-set-slices"
-                        src="./static/figures/level_set/ox/ox_ap.glb"
-                        alt="Slices through a 3D ambient surface."
-                        environment-image="neutral" auto-rotate camera-controls></model-viewer>
-          <p>
-            This means the higher-dimensional shape must contain copies of the same shape since
-            each permutation has to lie along a single straight slice through the z-axis. If we let
-            the slicing plane bend, it results in a much cleaner template:
-          </p>
-          <model-viewer class="level-set-slices"
-                        src="./static/figures/level_set/ox/ox_ds.glb"
-                        alt="Slices through a 3D ambient surface."
-                        environment-image="neutral" auto-rotate camera-controls></model-viewer>
-          <p>Please see the paper for details.</p>
-        </div>
-      </div>
-
-    </div>
-  </div>
-
-
-  <div class="container is-max-desktop">
-    <div class="content has-text-justified">
-      <h2 class="title is-3">HyperNeRF</h2>
-      <p>
-        The HyperNeRF architecture is a straightforward extension to Nerfies. The key difference is
-        that the template NeRF is conditioned on additional higher-dimensional coordinates, where
-        the higher dimensional coordinates are given by an "ambient slicing surface" which can be
-        thought of as a higher dimensional analog to the deformation field.
-      </p>
-      <div class="has-text-centered">
-        <img style="width: 90%;" src="./static/figures/architecture.svg"
-             alt="HyperNeRF architecture."/>
-      </div>
-      <h3 class="title is-4">Hyper-Space Template</h3>
-      <p>
-        HyperNeRF leverages main idea of level set methods by using a template NeRF which lives in
-        higher dimensions. In addition to the spatial coordinates (X, Y, Z), the NeRF MLP takes
-        additional higher dimensional coordinates W<sub>1</sub> and W<sub>2</sub>. We call these
-        the "ambient dimensions".
-      </p>
-      <p>
-        Here is an interactive viewer for the hyper-space of capture shown in the teaser. Drag the
-        <span style="color: #29e">blue cursor</span> around to change the ambient dimension rendered
-        on the right.
-      </p>
-    </div>
-    <div class="columns is-centered">
-      <div class="column is-half">
-        <div class="hyper-space-wrapper has-text-centered">
-          <div class="hyper-space-axis">
-            <div class="hyper-space">
-              <div class="hyper-space-cursor"></div>
-            </div>
-          </div>
-          Ambient Dimension Coordinates
-          <br/>
-          <small>(Background shows log density of coordinate)</small>
-        </div>
-      </div>
-      <div class="column is-half has-text-centered">
-        <div class="hyper-grid-wrapper">
-          <div class="hyper-grid-rgb">
-            <img src="./static/figures/hyper_grid.jpg"/>
-          </div>
-        </div>
-        The hyper-space template rendered from a fixed viewpoint.
+       </div>
       </div>
     </div>
-  </div>
 </section>
 
-<hr/>
 
 <section class="section" id="BibTeX">
   <div class="container content is-max-desktop">
@@ -525,31 +297,33 @@
   </div>
 </section>
 
+<section class="section" >
+  <div class="container is-max-desktop content">
+    <h5 class="title">Website Template taken from <span class="author-block">
+              <a href="https://nerfies.github.io/" target="_blank">Nerfies</a></h5>
 
-<section class="section" id="acknowledgements">
-  <div class="container content is-max-desktop">
-    <h2 class="title">Acknowledgements</h2>
-    <p>Special thanks to <a href="https://homes.cs.washington.edu/~holynski/">Aleksander Hołyński</a>,
-      <a href="https://roxanneluo.github.io/">Xuan Luo</a>, and Haley Cho for their support and
-      help with collecting data. Thanks to <a href="https://zhengqili.github.io/">Zhengqi Li</a> and
-      <a href="http://www.oliverwang.info/">Oliver Wang</a> for their help with the NSFF experiments.</p>
   </div>
 </section>
 
+<script>
+    const viewers = document.querySelectorAll(".image-compare");
+    viewers.forEach((element) => {
+        let view = new ImageCompare(element, {
+            hoverStart: true,
+            addCircle: true
+        }).mount();
+    });
 
-<footer class="footer">
-  <div class="container">
-    <div class="content has-text-centered">
-      <a class="icon-link" href="https://arxiv.org/pdf/2106.13228.pdf">
-        <i class="fas fa-file-pdf"></i>
-      </a>
-      <a class="icon-link" href="https://github.com/keunhong" class="external-link" disabled>
-        <i class="fab fa-github"></i>
-      </a>
-    </div>
-  </div>
-</footer>
-
-<script type="text/javascript" src="./static/slick/slick.min.js"></script>
+    $(document).ready(function () {
+        var editor = CodeMirror.fromTextArea(document.getElementById("bibtex"), {
+            lineNumbers: false,
+            lineWrapping: true,
+            readOnly: true
+        });
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    });
+</script>
 </body>
 </html>
