@@ -1,1 +1,1 @@
-# HyperNeRF Website
+# Mega-CDA Website
